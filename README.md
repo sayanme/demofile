@@ -1,3 +1,3 @@
 # demofile
 this is a demo file,
-Author - Sayan Mitra
+Author - Sayan Mitra (Techno student)
